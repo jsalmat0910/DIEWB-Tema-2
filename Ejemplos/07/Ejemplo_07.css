@@ -1,0 +1,9 @@
+#divExterior {
+    color: red;
+    border: 5px solid darkred;
+}
+
+#divInterior {
+    color: initial;
+    border: inherit;
+}

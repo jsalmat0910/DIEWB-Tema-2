@@ -1,0 +1,42 @@
+/* Ejemplo por orden */
+p{
+    color: red;
+}
+
+#parrafo3 {
+    color: #0000ff;
+}
+
+.par {
+    color: darkgreen;
+}
+
+/* --------------------------------- */
+
+/* Ejemplo por importancia */
+/* p{
+    color: red;
+}
+
+#parrafo2 {
+    color: #0000ff;
+}
+
+.impar {
+    color: darkgreen;
+} */
+
+/* --------------------------------- */
+
+/* Ejemplo por !Important */
+/* p{
+    color: red !important;
+}
+
+#parrafo2 {
+    color: #0000ff;
+}
+
+.impar {
+    color: darkgreen;
+} */

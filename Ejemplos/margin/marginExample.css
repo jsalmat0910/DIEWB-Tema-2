@@ -1,0 +1,7 @@
+#divabajo {
+    border-top-style: dotted;
+    margin-top: -10px;
+}
+div {
+    border: 2px solid black;
+}

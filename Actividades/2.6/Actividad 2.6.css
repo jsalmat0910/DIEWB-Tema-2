@@ -1,0 +1,10 @@
+
+h1 {
+    color: blueviolet;
+}
+
+p {
+    border-left: 5px solid blue;
+    background-color: aqua;
+    padding: 20px;
+}

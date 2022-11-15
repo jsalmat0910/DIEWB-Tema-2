@@ -1,0 +1,13 @@
+div {
+    color: blue;
+}
+
+#divExterior {
+    color: green;
+    border: 5px solid salmon;
+}
+
+#divInterior {
+    color: initial;
+    border: inherit;
+}

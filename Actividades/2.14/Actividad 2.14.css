@@ -1,0 +1,87 @@
+label {
+    color: cadetblue;
+    text-shadow: 4px 4px 6px lightblue;
+}
+
+div{
+    background: lemonchiffon;
+    padding: 20px;
+}
+
+/* ------------------------------------------------- */
+
+.gmail:valid {
+    background-color: lightsteelblue;
+    border-color: green;
+}
+
+.name:valid {
+    background-color: lightsteelblue;
+    border-color: green;
+}
+
+.pass:valid {
+    background-color: lightsteelblue;
+    border-color: green;
+}
+
+.edad:valid {
+    background-color: lightsteelblue;
+    border-color: green;
+}
+
+/* -------------------------------------------------- */
+
+.gmail:invalid {
+    background-color: lightyellow;
+    border-color: red;
+}
+
+.name:invalid {
+    background-color: lightyellow;
+    border-color: red;
+}
+
+.pass:invalid {
+    background-color: lightyellow;
+    border-color: red;
+}
+
+.edad:invalid {
+    background-color: lightyellow;
+    border-color: red;
+}
+
+/* ------------------------------------------------------- */
+
+.boton{
+    background: lightskyblue;
+    border-bottom: 5px solid lightskyblue;
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px darkblue;
+    cursor: pointer;
+    display: block;  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    height: 10px;
+    padding: 10px 10px;
+    text-align: center;
+    transition: all 0.2s ease 0s;
+    width: 90px;
+  }
+  .boton:hover{
+      background: darkblue;
+  }
+  .boton:active {
+    box-shadow: 2px 2px 2px blue, 0px 0px 35px 0px , blue;
+    border-bottom:1px solid #0045A6;
+    transform: translateY(4px);
+    transition: all 0.1s ease 0s;
+  }
+
+/* -------------------------------------------------- */
+
+/* .name:in-range {
+    background-color: lightsteelblue;
+    border-color: green;
+} */

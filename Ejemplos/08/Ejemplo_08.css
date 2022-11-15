@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+}
+
+div {
+    color: cornsilk;
+    display: inline;
+}
+
+span {
+    color: gold;
+    display: block;
+}
+
+#Segundo {
+    visibility: hidden;
+    /* display: none; */
+}
+

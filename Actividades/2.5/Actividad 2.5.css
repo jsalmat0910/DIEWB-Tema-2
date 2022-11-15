@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    color: beige;
+    text-transform: uppercase;
+    text-shadow: 5px 1px 10px blue;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
+
+em {
+    color: cornflowerblue;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+img {
+    vertical-align: sub;
+    width: 10px;
+    height: 10px;
+}
+

@@ -1,0 +1,13 @@
+#fuera {
+    border: 3px solid blueviolet;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+#interior {
+    border: 3px solid blue;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    color: blueviolet;
+}

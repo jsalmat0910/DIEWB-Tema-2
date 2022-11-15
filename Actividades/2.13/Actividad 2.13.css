@@ -1,0 +1,15 @@
+a:link {
+    color: rebeccapurple;
+}
+
+a:visited {
+    color: aquamarine;
+}
+
+a:active {
+    color: brown;
+}
+
+a:hover {
+    color: yellow;
+}

@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+
+.impar {
+    color: green;
+}
+
+.par {
+    color: red;
+}

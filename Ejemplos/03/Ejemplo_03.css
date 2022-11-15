@@ -1,0 +1,20 @@
+body {
+    background-color: tan;
+}
+
+h1 {
+    text-align: center;
+    color: beige;
+    text-transform: uppercase;
+    text-shadow: 5px 1px 10px coral;
+}
+p {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+ol {
+    border-left: 5px solid darkred;
+    background-color: darkgray;
+    padding: 2px 25px;
+}

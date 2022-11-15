@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+}
+
+div {
+    text-align: center;
+    margin: auto;
+    max-width: 300px;
+    padding: 10px;   
+}
+
+#padre {
+    border: 3px solid ;
+    color: cornsilk;
+    height: 500px;
+    position: relative;
+}
+
+#hijo {
+    color: pink;
+    border: 3px solid;
+    max-width: max-content;
+    position: relative;
+    top: 440px;
+}

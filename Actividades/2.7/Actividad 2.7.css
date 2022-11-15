@@ -1,0 +1,14 @@
+body {
+  background-color: cornsilk;
+}
+
+
+button {
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    padding: 25px 25px;
+    text-decoration: none;
+    cursor: pointer;
+    border: 10px 10px ;
+    box-shadow: 10px 10px 10px darkorchid;
+  }

@@ -1,0 +1,16 @@
+body{
+    background-color: cadetblue;
+}
+
+div {
+    color: cornsilk;
+    text-align: center;
+    margin: auto;
+    max-width: fit-content;
+    border: 2px solid cornsilk;
+}
+
+img {
+    width: 200px;
+    display: block;
+}

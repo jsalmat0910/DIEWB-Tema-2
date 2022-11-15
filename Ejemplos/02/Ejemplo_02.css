@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: blueviolet;
+    border: 4px dashed rgb(156, 50, 255);
+}
+
+p {
+    color: brown;
+    border: 7px dashed teal;
+}
