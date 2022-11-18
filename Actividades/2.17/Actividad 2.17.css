@@ -1,0 +1,34 @@
+body {
+    background: lavenderblush;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+    border-left: 3px solid darkgreen;
+}
+
+div {
+    padding: 5px;
+    width: 100%;
+    position: absolute;
+    bottom: 40px;
+}
+
+p {
+    color: darkgreen;
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+    position: absolute;
+    bottom: 5px;
+    border-bottom: 3px solid darkgreen;
+}
+
+.anterior {
+    float: left;
+}
+
+.siguiente {
+    float: right;
+}

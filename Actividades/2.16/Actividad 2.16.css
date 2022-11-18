@@ -1,0 +1,22 @@
+body {
+    background: lavenderblush;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+    border-left: 3px solid darkgreen;
+}
+
+div {
+    padding: 30px;
+    border-bottom: 3px solid darkgreen;
+}
+
+.anterior {
+    float: left;
+}
+
+.siguiente {
+    float: right;
+}

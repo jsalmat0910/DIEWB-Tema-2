@@ -1,0 +1,30 @@
+body {
+    background: lavenderblush;
+}
+
+span.a {
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 3px solid brown;  
+    background-color: lightcoral; 
+  }
+  
+  span.b {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 3px solid royalblue;    
+    background-color: lightblue; 
+  }
+  
+  span.c {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 3px solid green;    
+    background-color: lightgreen; 
+  }
