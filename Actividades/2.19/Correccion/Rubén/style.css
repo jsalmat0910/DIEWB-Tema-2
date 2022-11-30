@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(0, 255, 200);
+    font-family: Arial;
+    padding: 5%;
+    text-align: center;
+    font-style: unset;
+    
+}
+
+div{
+    text-align: left;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    margin-left: 5px;
+    font-size: xx-large;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+table, tr, th {
+    
+    border: 3px solid;
+  }
+
+  img {
+    width: 180px;
+    height: 150px;
+    float: left;
+    
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+  }
