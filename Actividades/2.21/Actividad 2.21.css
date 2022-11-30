@@ -1,0 +1,11 @@
+@media not screen and (orientation: landscape) {
+    body {
+        background: lightgoldenrodyellow;
+    }
+}
+
+@media not screen and (orientation: portrait) {
+    body {
+        background: lightskyblue;
+    }
+}

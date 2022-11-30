@@ -1,0 +1,18 @@
+body {
+    background: lightgoldenrodyellow;
+}
+
+p {
+    padding-left: 150px;
+}
+
+p:hover {
+    color: lightcoral;
+}
+
+@media (orientation: landscape) {
+    body {
+        display: flex;
+        background: lightgoldenrodyellow;
+    }
+}
