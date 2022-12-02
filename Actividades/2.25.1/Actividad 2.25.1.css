@@ -1,0 +1,13 @@
+@media (orientation: landscape) {
+
+    h1{
+        display: none;
+    }
+
+}
+
+@media (orientation: portrait) {
+    p{
+        display: none;
+    }
+}
